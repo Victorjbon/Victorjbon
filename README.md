@@ -3,6 +3,7 @@
 - 📈 Foco na solução de problemas e extração de informações por meio dos dados!
 - 🔭 Aprimorando e aperfeiçoando a cada dia em Análise e Ciência de dados.
 - 😄 Pronomes: ele/dele
+- 📩 vicjbon@gmail.com
 
 <div align="center">
   <a href="https://github.com/Victorjbon">
